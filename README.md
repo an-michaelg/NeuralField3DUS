@@ -1,5 +1,6 @@
 # NeuralField3DUS
-NeuralField3DUS - Learning Neural Field Representations for 3D Ultrasound
+NeuralField3DUS - Learning Neural Field Representations for 3D Ultrasound 
+Paper link: https://openreview.net/forum?id=1EDRk-CyQou
 
 3D representation:
 ![3D representation](./supplementary_material/3dus_result_baseline.gif)
